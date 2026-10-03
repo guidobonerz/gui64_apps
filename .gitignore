@@ -1,4 +1,5 @@
 *.pdf
 *.bin
 *.d64
+*.chr
 gui64.inc.asm
