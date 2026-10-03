@@ -1,5 +1,5 @@
 # GUI64 Apps
-A coolection of AI generated apps for the GUI64
+A coolection of AI generated apps for the [GUI64](https://github.com/WebFritzi/GUI64)
 
 Screenshots show the GUI64 Mac version.
 
