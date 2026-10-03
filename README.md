@@ -15,6 +15,10 @@ Screenshots show the GUI64 Mac version.
 
   ![Drunken Pigeon](screenshots/DrunkenPigeon.png)
 
+- [Cannonball](Cannonball/) - Artillery game for two players
+
+  ![Cannonball](screenshots/Cannonball.png)
+
 - [Roaches](Roaches/) - Fun App
 
   ![Roaches](screenshots/Roaches.png)
