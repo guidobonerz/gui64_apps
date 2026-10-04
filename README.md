@@ -19,6 +19,10 @@ Screenshots show the GUI64 Mac version.
 
   ![Cannonball](screenshots/Cannonball.png)
 
+- [Pathfinder](Pathfinder/) - Topple the box towers to build a path to the red box
+
+  ![Pathfinder](screenshots/Pathfinder.png)
+
 - [Roaches](Roaches/) - Fun App
 
   ![Roaches](screenshots/Roaches.png)
