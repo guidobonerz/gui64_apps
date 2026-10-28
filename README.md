@@ -23,6 +23,10 @@ Screenshots show the GUI64 Mac version.
 
   ![Pathfinder](screenshots/Pathfinder.png)
 
+- [RainRadar](RainRadar/) - Precipitation forecast for the next two hours (like Buienalarm), fetched via the Ultimate Command Interface
+
+  ![RainRadar](screenshots/RainRadar.png)
+
 - [Roaches](Roaches/) - Fun App
 
   ![Roaches](screenshots/Roaches.png)
